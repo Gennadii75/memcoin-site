@@ -1,9 +1,9 @@
 {
   "priceUsd": null,
   "priceNative": null,
-  "bnbUsd": 781.0,
+  "bnbUsd": 781.21,
   "totalSupply": "10000000.0",
   "pairUrl": null,
-  "updatedAt": "2026-10-06T04:36:47.328084Z",
+  "updatedAt": "2026-10-06T04:51:35.795700Z",
   "contract": "0x023E00a1b6aD9E2209167b433a0Bb65Be6B751D4"
 }
